@@ -1,0 +1,11 @@
+candle_data/
+download/
+logs/
+*.swp
+log*
+m1-tensorflow-config/
+lose.zip
+venv/
+node_modules/
+package-lock.json
+saved_model/
